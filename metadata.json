@@ -1,0 +1,6 @@
+{
+  "name": "DUALIS - Local Two-Player Battleground",
+  "description": "High-intensity local 2-player game hub for playing chess, checkers, and fast-paced cyber arcade duels on a single screen with customizable minimalist dark themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
